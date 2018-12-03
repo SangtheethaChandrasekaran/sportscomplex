@@ -61,4 +61,12 @@ SCOPE
    -System will store data
 
 DEPLOYMENT
->> 
+>> Languange
+   - PhP
+   - Javascript
+   
+>> Access to the project
+  1) Save the project file at following path "c:>xampp>htdocs>sportscomplex"
+  2) Open browser
+  3) Type "http://localhost/sportscomplex/index.php"
+  4) Will display the project
