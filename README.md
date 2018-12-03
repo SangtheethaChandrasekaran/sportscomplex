@@ -37,7 +37,7 @@ INSTALLATION
   7) Open the xampp control panel
   8) Start up Apache and MySQL
   9) You can check if your new local server is installed by visiting http://localhost in your browser.
-  10) Done
+ 10) Done
   
 INTRODUCTION
 >>UTeM Sports Complex Reservation System is a new system as it is simplified for everyone and only focuses on a single scope which is reservation.
@@ -70,3 +70,5 @@ DEPLOYMENT
   2) Open browser
   3) Type "http://localhost/sportscomplex/index.php"
   4) Will display the project
+  
+
