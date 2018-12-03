@@ -43,21 +43,21 @@ INTRODUCTION
 >>UTeM Sports Complex Reservation System is a new system as it is simplified for everyone and only focuses on a single scope which is reservation.
   
 PROBLEM STATEMENT
->> Time consuming to keep track and search of user and facility details.
->> No availability of booking.
->> Possible booking conflict among the users.
+- Time consuming to keep track and search of user and facility details.
+- No availability of booking.
+- Possible booking conflict among the users.
 
 OBJECTIVES
->> To provide search capability to reduce time consuming. 
->> To provide access information of sport complex.
->> To provide a convenient booking method.
+- To provide search capability to reduce time consuming. 
+- To provide access information of sport complex.
+- To provide a convenient booking method.
 
 SCOPE
->> Lecturer and students Scope
+- Lecturer and students Scope
    -To book the sports complex in UTeM.
->> Admin Scope
+- Admin Scope
    -The system can store the information in the database.
->> System Scope
+- System Scope
    -System will store data
 
 DEPLOYMENT
